@@ -1,0 +1,15 @@
+datasets
+matplotlib
+numpy
+pandas
+pillow
+scikit-learn
+scipy
+seaborn
+torch
+torchvision
+torchmetrics
+torchinfo
+wandb
+git+https://github.com/thib-s/orthogonium.git
+
